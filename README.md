@@ -1,4 +1,4 @@
-# EthicalHackingTools
+# Ethical Hacking Tools
 
 EthicalHackingTools is a collection of tools written in Python to assist with various ethical hacking techniques. These tools are designed to help security professionals and enthusiasts in identifying and mitigating security vulnerabilities.
 
